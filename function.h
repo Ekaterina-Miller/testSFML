@@ -2,4 +2,5 @@
 #define FUNCTION_H
 #include <iostream>
 void foo();
+void boo();
 #endif
