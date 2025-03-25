@@ -3,4 +3,7 @@
 #include <iostream>
 void foo();
 void boo();
+void hoo();
+
+
 #endif
